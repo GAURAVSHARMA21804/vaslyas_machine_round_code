@@ -1,0 +1,16 @@
+# Python byte-code files
+*.pyc
+__pycache__/
+
+# Virtual environment
+venv/
+env/
+
+# Other common Django/Python ignores
+.env
+db.sqlite3
+*.log
+local_settings.py
+htmlcov/
+.tox/
+.coverage
